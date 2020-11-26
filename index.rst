@@ -6,8 +6,6 @@
    :hidden:
 
    1-hpoc/ansprechpartner/ansprechpartner
-   <!--1 -hpoc/clusteraccess/clusteraccess -->
-   <!--1 -hpoc/clusterdetails/clusterdetails -->
 
 .. toctree::
    :maxdepth: 2
@@ -110,7 +108,7 @@
 -----------------------------------
 Herzlich willkommen zum Nutanix PoC
 -----------------------------------
-**Bereitgestellt für Graepel Löningen GmbH & Co. KG**
+**Bereitgestellt für Wink Stanzwerkzeuge GmbH & Co. KG**
 
 .. figure:: images/Intro.png
 
